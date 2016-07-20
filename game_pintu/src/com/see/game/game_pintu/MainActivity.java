@@ -25,7 +25,6 @@ public class MainActivity extends Activity {
 			@Override
 			public void timechanged(int currentTime) {
 				// TODO Auto-generated method stub
-
 			}
 
 			@Override
